@@ -1,0 +1,36 @@
+.App {
+    #quote-box{
+        padding: 25px;
+        background-color: seagreen;
+        border-radius: 30px;
+        #author{
+            text-align: end;
+            color: aqua;}
+        #tweet-quote{
+            float: left;
+            font-size: small;
+        }  
+        #new-quote{
+            color: orange;
+            font-style: italic;
+            font-size: large;
+            font-weight: 300;
+        }  
+    }
+  text-align: center;
+  .App-header {
+  background-color: #9caccd;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(20px + 2vmin);
+  color: rgb(4, 8, 5);
+  }
+}
+
+
+
+
+
